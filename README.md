@@ -1,4 +1,4 @@
-# simplell
+# simplell [![Build Status](https://travis-ci.org/firejox/simplell.svg?branch=master)](https://travis-ci.org/firejox/simplell)
 
 Simple LL(1) parser generator
 
